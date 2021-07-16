@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**hillarykhan/hillarykhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- In my last month of a 6-month data science program
+- Currently working on an app that uses social media posts to identify potential incidents of police violence
+- Ready to bring a new perspective to the data science field
+- Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages and Tools
+- Python
+- R (Statistics)
+- SQL
+- Visual Studio Code
+- RStudio
+
+
+## Let's Connect!
+- [Linkedin](https://www.linkedin.com/in/hillary-khan/) 
+- [Gmail](mailto:khan.hillary@gmail.com)
+
