@@ -11,7 +11,7 @@
 ## Languages and Tools
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="SKLearn" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img align="left" alt="Pandas" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
+<img align="left" alt="Pandas" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" alt="Matplotlib" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 <img align="left" alt="Numpy" height="36px" src="https://numpy.org/images/logos/numpy.svg"/>
 <img align="left" alt="R" width="36px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
