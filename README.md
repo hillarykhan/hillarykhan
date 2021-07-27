@@ -25,7 +25,6 @@
 <img align="left" alt="FastAPI" height="36px" src="https://images.tute.io/tute/topic/FastAPI.png"/>
 <img align="left" alt="Flask" height="36px" src="https://png2.cleanpng.com/sh/cb7815d6afa42a8701a077147e35c7e6/L0KzQYm3VcA5N6lmj5H0aYP2gLBuTfZtaaRwReJEdHjyfn7AhfIubqNmhddCb4LuPcjsgr1ieKFxgdVqdHnyfn77lgRweppmRadqZkHncrOAU8U3PmU9Rqk8NkW2Q4OAUcUzPWgAUaoBM0K0SIi1kP5o/kisspng-flask-python-web-framework-web-application-tutoria-5af1dbb7356648.7365332715257998632187.png"/>
 
-
 </br>
 </br>
 
@@ -33,8 +32,5 @@
 [<img height="32" width="32" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/hillary-khan/) &nbsp;&nbsp;
 [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:khan.hillary@gmail.com) &nbsp;&nbsp;
 [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />](https://www.instagram.com/hillachu/?hl=en)
-
-</br>
-<img align="left" alt="Hillary's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hillarykhan&show_icons=true&hide_border=true"/>
 
 
