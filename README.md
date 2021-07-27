@@ -3,7 +3,7 @@
 
 ## About Me 
 - My pronouns are she/her
-- In my last month of a 6-month data science program with Lambda School
+- Finishing my last month of a 6-month data science program with Lambda School
 - Currently working on an app that uses social media posts to identify and locate incidents of police violence
 - Looking for projects that use data science to build more equitable and accountable communities
 
